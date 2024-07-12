@@ -90,7 +90,7 @@
   ```
   Go to `Interface Options`, go to `VNC`, then enable it
 - Test it and see!!!
-  Go to any VNC viewer, I use tiger VNC, connect to your pi
-  Run `realsense-viewer` in a terminal window from your VNC
-  Test and see!!
+  - Go to any VNC viewer, I use tiger VNC, connect to your pi
+  - Run `realsense-viewer` in a terminal window from your VNC
+  - Test and see!!
   ![image](https://github.com/user-attachments/assets/a760787f-63f3-4130-ba71-45e8acdd2071)  
